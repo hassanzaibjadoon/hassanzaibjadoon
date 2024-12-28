@@ -107,7 +107,7 @@ Certified Project Manager | Research Analyst | Community Manager | Academic Rese
 
 ## 🏆 Trophies
 <div align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=hzjadoon&theme=radical" alt="Trophies" />
+  <img src="https://github-profile-trophy.vercel.app/?username=hassanzaibjadoon&theme=radical" alt="Trophies" />
 </div>
 
 ## Contact Me:
