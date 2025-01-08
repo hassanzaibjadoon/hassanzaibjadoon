@@ -105,13 +105,10 @@ Certified Project Manager | Research Analyst | Community Manager | Academic Rese
 
 
 ## 🌟 **GitHub Stats & 🔥 GitHub Streaks**
-
 <div style="text-align: center;">
   <img src="https://github-readme-stats.vercel.app/api?username=hassanzaibjadoon&show_icons=true&theme=radical" alt="Hassan's GitHub stats" width="375" height="175" />
-  <br>
   <img src="https://www.transparenttextures.com/patterns/white-concrete.png" alt="" width="50" height="1" />
-  <br>
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=hassanzaibjadoon&theme=radical" alt="Hassan's GitHub Streak" width="375" height="175" />
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=hzjadoonn&theme=radical" alt="Hassan's GitHub Streak" width="375" height="175" />
 </div>
 
 
