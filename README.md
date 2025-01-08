@@ -2,7 +2,7 @@
 <!-- Profile Views Badge -->
 
 <p align="right">
-  <img src="https://komarev.com/ghpvc/?username=hzjadoon&label=Profile%20views&color=0e75b6&style=flat" alt="Profile views" />
+  <img src="https://komarev.com/ghpvc/?username=hassanzaibjadoon&label=Profile%20views&color=0e75b6&style=flat" alt="Profile views" />
 </p>
 
 ## Hi 👋, I'm Hassan Zaib Jadoon
@@ -15,7 +15,20 @@ Certified Project Manager | Research Analyst | Community Manager | Academic Rese
 - 🎓 **Education:**  
   Budding Computer System Engineer at the [University of Engineering & Technology Peshawar](http://www.uetpeshawar.edu.pk/).
   
-- 📊 **Professional Experience:**  
+- 📊 **Professional Experience:**
+### 🤝 **Community Manager**
+
+- **The Order of Pen**
+- Led and selected 13 ambassadors from a pool of 53 candidates, ensuring top-tier representation from Peshawar.  
+- Managed ambassadors' activities and prepared detailed monthly evaluation reports to track performance.  
+- Supervised 60+ organization members across 10+ projects, fostering collaboration and achieving organizational goals.  
+- Prepared comprehensive documentation for all projects, ensuring accuracy and accessibility.  
+- Conducted workshops to train members on effective documentation and collaboration techniques.  
+- Communicated with outreach partners to secure partnerships and sponsorships, enhancing organizational visibility.  
+- Managed inquiries and negotiations with sponsors and collaborators, ensuring beneficial outcomes for the organization.  
+- Oversaw organizational communications, including managing emails and hiring new staff to optimize operations and outcomes.  
+
+
   - **[Server4Sale LLC](https://www.server4sale.com/):**
     - 💡 Enhanced decision-making efficiencies.
     - ⚙️ Leveraged Power BI and AI technologies to transform data into actionable insights.
@@ -24,12 +37,6 @@ Certified Project Manager | Research Analyst | Community Manager | Academic Rese
   - **[SID - Secured IoT Devices Lab - UET Peshawar](http://www.uetpeshawar.edu.pk/):**
     - 🌱 Advanced sustainable agriculture through innovative IoT solutions.
 
-### 🤝 **Community Engagement**
-- **[The Order of Pen](https://www.theorderofpen.com/):**  
-  - 🛠️ Role: Community Manager
-  - 💬 Harnessed customer service skills.
-  - 📢 Ensured collaborative efforts resonate within the community.
-  - 🌍 Dedicated to technological and societal progress.
 
 ---
 
